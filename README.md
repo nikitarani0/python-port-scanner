@@ -10,8 +10,3 @@ A simple Python port scanner for ethical hacking and penetration testing.
 ## 🚀 Usage:
 ```bash
 python port_scanner.py <target_ip> <start_port> <end_port>
-
-**Example:**
-python port_scanner.py 192.168.1.1 20 100
-
-
